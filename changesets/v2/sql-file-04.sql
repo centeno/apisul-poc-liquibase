@@ -1,0 +1,1 @@
+INSERT INTO YYY VALUES(3, 'Pedro', 31, '', 1);

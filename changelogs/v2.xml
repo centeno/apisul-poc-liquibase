@@ -1,0 +1,9 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.3.xsd">
+<changeSet author='script' id='v2.1'><sqlFile path='changesets/v2/sql-file-01.sql' /></changeSet>
+<changeSet author='script' id='v2.2'><sqlFile path='changesets/v2/sql-file-02.sql' /></changeSet>
+<changeSet author='script' id='v2.3'><sqlFile path='changesets/v2/sql-file-03.sql' /></changeSet>
+<changeSet author='script' id='v2.4'><sqlFile path='changesets/v2/sql-file-04.sql' /></changeSet>
+<changeSet author='script' id='v2.5'><sqlFile path='changesets/v2/sql-file-05.sql' /></changeSet>
+</databaseChangeLog>
